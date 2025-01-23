@@ -1,11 +1,17 @@
-[Experimental Analysis of the Dorabella Cipher with Statistical Language Models](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=zaosyNUAAAAJ&citation_for_view=zaosyNUAAAAJ:u-x6o8ySG0sC)  
-Bradley Hauer, Colin Choi, **Anirudh S Sundar**, Abram Hindle, Scott Smallwood, Grzegorz Kondrak  
-International Conference on Historical Cryptology, 70-79  
+# Publications
 
+### Conference Papers
 
-[Multimodal Conversational AI: A Survey of Datasets and Approaches](https://arxiv.org/abs/2205.06907)
-**Anirudh S Sundar** and Larry Heck
-In Proceedings of the 4th Workshop on NLP for Conversational AI, pages 131–147, Dublin, Ireland. Association for Computational Linguistics.
+**[cPAPERS: A Dataset of Situated and Multimodal Interactive Conversations in Scientific Papers](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vBwHaN4AAAAJ&citation_for_view=vBwHaN4AAAAJ:d1gkVwhDpl0C)**  
+William Gay, Anirudh Sundar, Jennifer Xu, Chelsea Richardson, Larry Heck  
+*In Proceedings of the 38th Conference on Neural Information Processing Systems Datasets and Benchmarks Track* (NeurIPS 2024)
 
+**[iTBLS: A dataset of Interactive Conversations Over Tabular Information](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vBwHaN4AAAAJ&citation_for_view=vBwHaN4AAAAJ:u-x6o8ySG0sC)**  
+William Gay, Anirudh Sundar, Chelsea Richardson, Larry Heck  
+*Under Review* (ACL 2024)
 
-[Back](https://anirudhssundar.github.io/)
+**[Conversational Equations: A Conversational Question-Answering Dataset Grounded in Scientific Equations](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vBwHaN4AAAAJ&citation_for_view=vBwHaN4AAAAJ:u5HHmVD_uO8C)**  
+William Gay, Anirudh Sundar, Shachi Parikh, Larry Heck  
+*In Proceedings of SouthNLP Symposium* (2024)
+
+[Back](https://williamgay25.github.io/)
