@@ -13,5 +13,3 @@ William Gay, Anirudh Sundar, Chelsea Richardson, Larry Heck
 **[Conversational Equations: A Conversational Question-Answering Dataset Grounded in Scientific Equations](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vBwHaN4AAAAJ&citation_for_view=vBwHaN4AAAAJ:u5HHmVD_uO8C)**  
 William Gay, Anirudh Sundar, Shachi Parikh, Larry Heck  
 *In Proceedings of SouthNLP Symposium* (2024)
-
-[Back](https://williamgay25.github.io/)
