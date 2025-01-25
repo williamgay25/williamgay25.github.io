@@ -1,7 +1,7 @@
 # Home
 
 Hello!   
-I'm a CS Master's student at [Georgia Tech](https://www.ece.gatech.edu/) in the AI Virtual Assitant (AVA) Lab advised by [Professor Larry Heck](https://larryheck.github.io/). I'm interested in machine learning for conversational AI.
+I'm a CS Master's student at [Georgia Tech](https://www.scs.gatech.edu/) in the AI Virtual Assitant (AVA) Lab advised by [Professor Larry Heck](https://larryheck.github.io/). I'm interested in machine learning for conversational AI.
 
 [Publications](publications.md)  
 [Interests](interests.md)  
