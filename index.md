@@ -5,6 +5,7 @@ I'm a CS Master's student at [Georgia Tech](https://www.ece.gatech.edu/) in the 
 
 [Publications](publications.md)  
 [Other Interests](interests.md)  
+
 [<img src="images/linkedin.png" width="25"/>](https://www.linkedin.com/in/williamegay){:target="_blank"}
 [<img src="images/google_scholar.png" width="25"/>](https://scholar.google.com/citations?hl=en&user=vBwHaN4AAAAJ#){:target="_blank"}
 [<img src="images/twitter.png" width="25"/>](https://x.com/willistuns){:target="_blank"}
