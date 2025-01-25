@@ -2,10 +2,10 @@
 
 ### Books
 - **The Age of AI** by Henry Kissinger, Eric Schmidt, Daniel Huttenlocher  
-  A fascinating examination of how AI transforms human knowledge, perception and reality.
+  Description...
   
 ### Films & Documentaries 
-- **HyperNormalisation** (2016) - [Trailer](https://www.youtube.com/watch?v=AUiqaFIONPQ&t=80s)
-  Description
+- **HyperNormalisation** (2016) - [Trailer](link)  
+  Description...
 
 [Back](https://williamgay25.github.io/)
