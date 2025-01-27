@@ -28,7 +28,7 @@ Adam Curtis
 Errol Morris
 
 **Vice** (2018)  
-[Trailer](https://www.youtube.com/watch?v=g09a9laLh0k){:target="_blank"} | [Clip 1](https://www.youtube.com/watch?v=wCaBm-7LDQM){:target="_blank"}  
+[Trailer](https://www.youtube.com/watch?v=g09a9laLh0k){:target="_blank"} | [Clip 1](https://www.youtube.com/watch?v=wCaBm-7LDQM){:target="_blank"} | [Clip 2](https://www.youtube.com/watch?v=UUDISiiF_ik)  
 Adam McKay
 
 **Wall Street** (1987)  
