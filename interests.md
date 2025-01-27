@@ -22,3 +22,7 @@ Adam Curtis
 **The Thin Blue Line** (1998)  
 [Trailer](https://www.youtube.com/watch?v=dNL5A4D0G4g){:target="_blank"}  
 Errol Morris
+
+**The Unknown Known Line** (2014)  
+[Trailer](https://www.youtube.com/watch?v=J-NSyMTpkYI){:target="_blank"}  
+Errol Morris
