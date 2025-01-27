@@ -5,8 +5,8 @@ I'm a CS Master's student at [Georgia Tech](https://www.scs.gatech.edu/){:target
 
 Feel free to reach out to connect at [wgay7@gatech.edu](mailto:wgay7@gatech.edu).
 
-[Publications](publications.md)  
 [Interests](interests.md)  
+[Publications](publications.md)  
 
 [<img src="images/linkedin.png" width="25" height="25"/>](https://www.linkedin.com/in/williamegay){:target="_blank"}
 [<img src="images/google_scholar.png" width="25" height="25"/>](https://scholar.google.com/citations?hl=en&user=vBwHaN4AAAAJ#){:target="_blank"}
