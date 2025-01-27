@@ -17,7 +17,7 @@ Adam Curtis
 
 **The Big Short** (2015)  
 [Trailer](https://www.youtube.com/watch?v=vgqG3ITMv1Q){:target="_blank"} | [Clip 1](https://www.youtube.com/watch?v=TpCb3xjh-Kk){:target="_blank"}  
-Errol Morris
+Adam McKay
 
 **The Mayfair Set** (1999)  
 [Part 1](https://www.youtube.com/watch?v=Emb5BWQSfak&t=1s){:target="_blank"} | [Part 2](https://www.youtube.com/watch?v=zpeoRKi8exk){:target="_blank"} | [Part 3](https://www.youtube.com/watch?v=CD4tuHs86KA){:target="_blank"} | [Part 4](https://www.youtube.com/watch?v=78NJCOSIaTg){:target="_blank"}  
