@@ -27,6 +27,10 @@ Adam Curtis
 [Trailer](https://www.youtube.com/watch?v=dNL5A4D0G4g){:target="_blank"}  
 Errol Morris
 
+**Wall Street** (1987)  
+[Clip 1](https://www.youtube.com/watch?v=jBEA65zdgKw){:target="_blank"}  
+Oliver Stone
+
 **Can't Get You out of My Head** (2021)  
 [Trailer](https://www.youtube.com/watch?v=cR9MELDeS5o){:target="_blank"}  
 Adam Curtis
