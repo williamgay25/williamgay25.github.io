@@ -27,6 +27,10 @@ Adam Curtis
 [Trailer](https://www.youtube.com/watch?v=dNL5A4D0G4g){:target="_blank"}  
 Errol Morris
 
+**Vice** (2018)  
+[Trailer](https://www.youtube.com/watch?v=g09a9laLh0k){:target="_blank"} | [Clip 1](https://www.youtube.com/watch?v=wCaBm-7LDQM){:target="_blank"}  
+Adam McKay
+
 **Wall Street** (1987)  
 [Clip 1](https://www.youtube.com/watch?v=jBEA65zdgKw){:target="_blank"}  
 Oliver Stone
