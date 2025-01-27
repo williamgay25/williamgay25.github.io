@@ -1,6 +1,6 @@
 # Interests
-  
-### Films & Documentaries
+
+### Films && Documentaries
 _Ranked in order of influence_
 
 **The Fog of War** (2003)  
@@ -22,6 +22,10 @@ Adam Curtis
 **The Thin Blue Line** (1998)  
 [Trailer](https://www.youtube.com/watch?v=dNL5A4D0G4g){:target="_blank"}  
 Errol Morris
+
+**Why We Fight** (2005)  
+[Trailer](https://www.youtube.com/watch?v=BcuStxJHv4c){:target="_blank"}  
+Eugene Jarecki
 
 **The Unknown Known** (2014)  
 [Trailer](https://www.youtube.com/watch?v=J-NSyMTpkYI){:target="_blank"}  
