@@ -7,6 +7,7 @@ Feel free to reach out to connect at [wgay7@gatech.edu](mailto:wgay7@gatech.edu)
 
 [Interests](interests.md)  
 [Publications](publications.md)  
+[Links](links.md)  
 
 [<img src="images/linkedin.png" width="25" height="25"/>](https://www.linkedin.com/in/williamegay){:target="_blank"}
 [<img src="images/google_scholar.png" width="25" height="25"/>](https://scholar.google.com/citations?hl=en&user=vBwHaN4AAAAJ#){:target="_blank"}
