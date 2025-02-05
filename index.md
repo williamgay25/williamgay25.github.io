@@ -13,3 +13,4 @@ Feel free to reach out to connect at [wgay7@gatech.edu](mailto:wgay7@gatech.edu)
 [<img src="images/google_scholar.png" width="25" height="25"/>](https://scholar.google.com/citations?hl=en&user=vBwHaN4AAAAJ#){:target="_blank"}
 [<img src="images/twitter.png" width="25" height="25"/>](https://x.com/willistuns){:target="_blank"}
 [<img src="images/github.png" width="25" height="25"/>](https://github.com/williamgay25){:target="_blank"}
+[<img src="images/goat_counter.svg" width="25" height="25"/>](https://williamgay25.goatcounter.com/){:target="_blank"}

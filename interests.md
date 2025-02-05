@@ -1,7 +1,7 @@
 # Interests
+_Loosely ranked in order of influence._
 
 ### Films & Documentaries
-_Loosely ranked in order of influence_
 
 **The Fog of War** (2003)  
 [Trailer](https://www.youtube.com/watch?v=k_O7bD8Swxk){:target="_blank"}  
