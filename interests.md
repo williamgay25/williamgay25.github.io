@@ -4,7 +4,7 @@ _Loosely ranked in order of influence._
 ### Films & Documentaries
 
 **The Fog of War** (2003)  
-[Trailer](https://www.youtube.com/watch?v=k_O7bD8Swxk){:target="_blank"}  
+[Trailer](https://www.youtube.com/watch?v=k_O7bD8Swxk){:target="_blank"} | [Clip 1](https://www.youtube.com/watch?v=RotCT4JyVd8){:target="_blank"}  
 Errol Morris
 
 **HyperNormalisation** (2016)  
