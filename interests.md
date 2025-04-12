@@ -44,7 +44,7 @@ Errol Morris
 Adam Curtis
 
 **Can't Get You out of My Head** (2021)  
-[Trailer](https://www.youtube.com/watch?v=cR9MELDeS5o){:target="_blank"}  
+[Trailer](https://www.youtube.com/watch?v=cR9MELDeS5o){:target="_blank"} | [Clip 1](https://www.youtube.com/watch?v=AMLTJi9dSUA){:target="_blank"}  
 Adam Curtis
 
 **Why We Fight** (2005)  
